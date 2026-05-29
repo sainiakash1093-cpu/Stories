@@ -1,4 +1,4 @@
-# Amazon L6 Leadership Principles Story Bank
+# Leadership Principles Story Bank
 
 This document contains polished STAR stories for Amazon L6 / Senior Software Engineer interviews.
 
